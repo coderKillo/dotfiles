@@ -29,5 +29,12 @@ with [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 [ncmpcpp](https://addy-dclxvi.github.io/post/configuring-ncmpcpp/)
 `sudo apt-get install mpd mpc ncmpcpp`
 
+## IDE VSCode
+
+Extensions:
+* VSCodeVim
+* Bookmarks
+* Todo Tree
+* AsciiDoc
 
 
